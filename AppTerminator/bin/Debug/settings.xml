@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppTerminatorSettings>
+  <Keys>
+    <key name="ProcessTerminate">
+      <MainKey>NumPad1</MainKey>
+      <ModifierKey>None</ModifierKey>
+    </key>
+    <key name="Windows">
+      <MainKey>NumPad2</MainKey>
+      <ModifierKey>None</ModifierKey>
+    </key>
+    <key name="CD Drive">
+      <MainKey>NumPad3</MainKey>
+      <ModifierKey>None</ModifierKey>
+    </key>
+    <key name="MasterVolumeMute">
+      <MainKey>NumPad4</MainKey>
+      <ModifierKey>None</ModifierKey>
+    </key>
+    <key name="MaseterVolumeUpKey">
+      <MainKey>Add</MainKey>
+      <ModifierKey>Shift</ModifierKey>
+    </key>
+    <key name="MaseterVolumeDownKey">
+      <MainKey>Subtract</MainKey>
+      <ModifierKey>Shift</ModifierKey>
+    </key>
+    <key name="CommandLine">
+      <MainKey>NumPad6</MainKey>
+      <ModifierKey>None</ModifierKey>
+    </key>
+  </Keys>
+  <Flags>
+    <flag name="NitifyMsg">
+      <Cheacked>False</Cheacked>
+    </flag>
+    <flag name="SoundNotify">
+      <Cheacked>False</Cheacked>
+    </flag>
+    <flag name="ProcessTerminateSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+    <flag name="WindowsSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+    <flag name="CD DriveSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+    <flag name="MasterVolumeMuteSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+    <flag name="MasterVolumeControlSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+    <flag name="CommandLineSwitcher">
+      <Cheacked>True</Cheacked>
+    </flag>
+  </Flags>
+  <Values>
+    <value name="VolumeStep">
+      <StepValue>2</StepValue>
+    </value>
+  </Values>
+</AppTerminatorSettings>
